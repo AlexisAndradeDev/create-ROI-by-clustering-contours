@@ -1,0 +1,9 @@
+[
+"C:/img_examples/3.bmp",
+[
+    ["gaussianBlur", 3],
+],
+[
+    [0,0,150], [255,255,255], "hsv", False, "ellipse", (12,12),
+]
+]
